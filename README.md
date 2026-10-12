@@ -42,7 +42,7 @@ git --version
 Clone the student's fork and enter the project directory.
 
 ```bash
-git clone <YOUR-FORK-URL>
+git clone https://github.com/Jose-1206/programacion-movil-2026-b-starter-react.git
 cd programacion-movil-2026-b-starter-react
 ```
 
