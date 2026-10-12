@@ -224,10 +224,10 @@ The Product Catalog feature is **done only when all of the following requirement
 - [x] Commit messages follow the `type(scope): summary` format.
 - [x] Commits are small enough to show the development process.
 - [x] The feature branch is pushed to the student's fork.
-- [ ] A Pull Request is opened from the feature branch to `main` of the student's own fork.
-- [ ] The Pull Request contains a clear description of the implemented work.
+- [x] A Pull Request is opened from the feature branch to `main` of the student's own fork.
+- [x] The Pull Request contains a clear description of the implemented work.
 - [x] This Definition of Done checklist is verified before delivery.
-- [ ] The Pull Request link is ready to be submitted in Moodle.
+- [x] The Pull Request link is ready to be submitted in Moodle.
 
 ---
 
